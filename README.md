@@ -1,2 +1,3 @@
 # math-study
-Mathematics Study
+
+Mathematics Study from Scratch
